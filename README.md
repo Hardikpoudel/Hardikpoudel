@@ -1,7 +1,7 @@
 ### Hi there, I'm Hardik Poudel 👋
 
 
-## I'm a Undergraduate, tech enthusiast, Developer
+## I'm a [[LMU]] Undergraduate, tech enthusiast, Developer
 
 - 🔭 I’m currently working on  my resume
 - 🌱 I’m currently learning everything 🤣
@@ -23,7 +23,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-
+[LMU]: https://www.londonmet.ac.uk/
 [react]: http://reactjs.org
 [gatsby]: https://gatsbyjs.org
 [styled]: https://styled-components.com
