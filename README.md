@@ -15,8 +15,8 @@
 ### Connect with me:
 
 👨🏼‍💻 building Resume 
-🧠 learning [.net], [tailwind][tailwind], [AI]  
-💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], 
+🧠 learning [.net], [tailwind][tailwind], [AI]
+💜 loving [react][react], react-native, Django, Node.js
 
 🐦 [twitter][twitter] **|** 
 📦 [quora][quora] **|** 
@@ -25,6 +25,8 @@
 
 [LMU]: https://www.londonmet.ac.uk/
 [react]: http://reactjs.org
+[Django]: https://www.djangoproject.com/
+[Node.js]: https://nodejs.org/en/docs/
 [gatsby]: https://gatsbyjs.org
 [styled]: https://styled-components.com
 [AI]: https://cloud.google.com/document-ai/docs
