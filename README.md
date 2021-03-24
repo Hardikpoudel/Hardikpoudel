@@ -16,7 +16,7 @@
 
 👨🏼‍💻 building Resume 
 🧠 learning [.net], [tailwind][tailwind], [AI]
-💜 loving [react][react], react-native, Django, Node.js
+💜 loving [react][react], react-native, [Django][Django], [Node.js]Node.js
 
 🐦 [twitter][twitter] **|** 
 📦 [quora][quora] **|** 
