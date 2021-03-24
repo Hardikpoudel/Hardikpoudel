@@ -3,10 +3,10 @@
 
 ## I'm a [[LMU]] Undergraduate, tech enthusiast, Developer
 
-- 🔭 I’m currently working on  my resume
+- 🔭 I’m currently working on  my college final year project
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for an intern
-- 🥅 2020 Goals: Contribute more to in my developer career
+- 👯 I was looking for an intern
+- 🥅 2021 Goals: Contribute more to in my developer career
 - ⚡ Fun fact: As a kid, I once did this really stupid thing, that i used to add sugar in my chewing gum after the falvour is finished
 
 ### Spotify Playing 🎧
