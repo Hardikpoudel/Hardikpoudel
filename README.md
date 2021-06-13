@@ -1,7 +1,7 @@
 ### Hi there, I'm Hardik Poudel 👋
 
 
-## I'm a [[LMU]] Undergraduate, tech enthusiast, Developer
+## I'm a [[LMU]] graduate, tech enthusiast, Developer, Looking for a full time remote job
 
 - 🔭 I’m currently working on  my college final year project
 - 🌱 I’m currently learning everything 🤣
